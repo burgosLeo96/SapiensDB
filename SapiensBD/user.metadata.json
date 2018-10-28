@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"SapiensBD.user"},{"v":2,"unique":true,"key":{"emailAddress":1},"name":"emailAddress_1","ns":"SapiensBD.user"}],"uuid":"b192d4ec958940c4b7a450edc0fc55b8"}
